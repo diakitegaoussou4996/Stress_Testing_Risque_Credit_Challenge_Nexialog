@@ -12,5 +12,3 @@
 
 
 <br>
-
-<div align="center"><span style="font-family:Lucida Caligraphy;font-size:32px;color:darkgreen">Table des matières</span></div><br>
