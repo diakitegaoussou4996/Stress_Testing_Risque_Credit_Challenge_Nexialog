@@ -1,6 +1,4 @@
-<img src="Bases/logoMoSEF.jpeg" width="90px" align="left">
-<div align="right">Enseignant : Nexialog</div>
-<div align="right">Réalisé par : Seçil Coskun, ABABII Anisoara, Eunice KOFFI et DIAKITE Gaoussou</div>
+
 <div align="right">Année : 2022/2023</div><br><br><br>
 <div align="center"><span style="font-family:Lucida Caligraphy;font-size:32px;color:darkgreen">Master 2 Modélisation Statistiques Economiques et Financières</span></div><br>
 <div align="center"><span style="font-family:Lucida Caligraphy;font-size:32px;color:darkgreen">Université Paris 1 Panthéon-Sorbonne</span></div><br>
